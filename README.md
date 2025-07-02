@@ -23,8 +23,8 @@ O Docker é uma plataforma que permite criar, executar e gerenciar contêineres 
 
 ### Conteúdos Recomendados:
 - [Documentação oficial do Docker](https://docs.docker.com/get-started/)
-- [O que é Docker? – Alura](https://www.alura.com.br/artigos/o-que-e-docker)
-- [Vídeo: O que é Docker? – Programação Dinâmica](https://www.youtube.com/watch?v=GqWLzRjXQd4)
+- [O que é Docker?](https://docs.docker.com/get-started/docker-overview/)
+- [Vídeo:O mínimo que você precisa saber sobre Docker! (YouTube)](https://www.youtube.com/watch?v=ntbpIfS44Gw&ab_channel=Diolinux)
 
 ---
 
@@ -49,7 +49,6 @@ Aprender os comandos básicos do Docker é o primeiro passo prático.
 - `docker exec`, `docker logs`
 
 ### Conteúdos Recomendados:
-- [Guia rápido de comandos Docker – LinuxTips](https://www.linuxtips.io/docker-comandos/)
 - [Cheat Sheet oficial do Docker](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 
 ---
@@ -60,7 +59,7 @@ Entenda como criar suas próprias imagens com um `Dockerfile`.
 
 ### Conteúdos:
 - [Documentação: Dockerfile](https://docs.docker.com/engine/reference/builder/)
-- [Vídeo: Dockerfile na prática – Filipe Deschamps](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
+- [Vídeo: Dockerfile na prática – Filipe Deschamps](https://www.youtube.com/watch?v=MiAiFTQjitc&ab_channel=C%C3%B3digoFonteTV)
 
 ---
 
@@ -70,53 +69,8 @@ Use o Docker Compose para orquestrar múltiplos contêineres (como app + banco d
 
 ### Conteúdos:
 - [Documentação oficial do Docker Compose](https://docs.docker.com/compose/)
-- [Tutorial prático – Deploy de app com Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04)
+- [Tutorial prático – API Simples em Node.JS rodando em container Docker dentro de um VPS (SIM, É BEM FÁCIL)(YouTube)](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04)
 
----
-
-## 🔐 7. Gerenciamento e Segurança de Containers
-
-- Volume e persistência de dados
-- Variáveis de ambiente
-- Docker Secrets e boas práticas de segurança
-
----
-
-## 🚀 8. Publicando suas imagens
-
-Como usar o DockerHub para compartilhar suas imagens com o mundo.
-
-- `docker login`
-- `docker tag`
-- `docker push`
-
----
-
-## 📚 9. Projetos para praticar
-
-Sugestões de projetos simples:
-- Clonando um app Node.js com MongoDB
-- Wordpress com MySQL usando Docker Compose
-- Criar uma imagem com Nginx servindo um site estático
-
----
-
-## 🎯 10. Próximos passos: Kubernetes e além
-
-Depois que você dominar Docker, o próximo nível é:
-- **Kubernetes**: Orquestração de containers
-- **CI/CD com Docker**: GitHub Actions, GitLab CI
-- **Docker em produção com Cloud (AWS/GCP/Azure)**
-
----
-
-## ✅ To-Do para futuros updates
-
-- [ ] Adicionar seção de erros comuns e troubleshooting
-- [ ] Criar imagens dos fluxos (diagramas)
-- [ ] Incluir exercícios práticos por módulo
-
----
 
 ## 🤝 Contribuindo
 
